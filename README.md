@@ -6,7 +6,7 @@
 CHEAT
 
 #### Technology
-Mobile app for Android
+Native Android app
 
 #### Stories
 
